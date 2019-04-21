@@ -1,0 +1,45 @@
+.topright {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+  }
+.centerHor {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    width: 20%;
+
+}
+#inputText{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    width: 40%;
+}
+#searchBtn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    width: 10%;
+}
+#textMargin{
+    margin-top: 2%;
+    margin-bottom: 7%;
+    width: 105%;  
+}
+.lastTable {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+.backgroundColor{
+    background-color:rgb(184, 184, 184);
+}
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
